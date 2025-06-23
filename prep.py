@@ -1,1 +1,1 @@
-print("Hello world!\nExcited to Learn Git & GitHub")
+print("Hello world!\nExcited to Learn Git & GitHub.")
